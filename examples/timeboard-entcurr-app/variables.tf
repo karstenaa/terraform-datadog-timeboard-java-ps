@@ -1,5 +1,5 @@
 variable "product_domain" {
-  default = "BEI"
+  default = "ENT"
 }
 
 variable "cluster" {
